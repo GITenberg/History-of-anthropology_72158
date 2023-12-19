@@ -1,0 +1,43 @@
+_repo: History-of-anthropology_72158
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Haddon, Alfred C. (Alfred Cort)
+    aliases:
+    - Haddon, Alfred Cort
+    - Haddon, A. C. (Alfred Cort)
+    birthdate: 1855
+    deathdate: 1940
+    gutenberg_agent_id: '32226'
+    url: http://www.gutenberg.org/2009/agents/32226
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Cort_Haddon
+  - agent_name: Quiggin, A. Hingston (Alison Hingston)
+    alias: Quiggin, Alison Hingston
+    birthdate: 1874
+    deathdate: 1971
+    gutenberg_agent_id: '37828'
+    url: http://www.gutenberg.org/2009/agents/37828
+    wikipedia: https://en.wikipedia.org/wiki/Alison_Hingston_Quiggin
+description: ''
+gutenberg_issued: '2023-11-17'
+identifiers:
+  gutenberg: '72158'
+  lccn: '10028952'
+language: en
+pgterms:marc904: https://archive.org/details/historyofanthrop00hadduoft
+pgterms:marc905: 20220730231545haddon
+pgterms:marc906: '1910'
+pgterms:marc907: en
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+  Last Edit of Project Info
+publication_note: '  $aLondon :$bWatts & Co., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthropology -- History'
+- !lcc 'GN'
+- GITenberg
+title: History of anthropology
+url: http://www.gutenberg.org/ebooks/72158
