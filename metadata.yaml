@@ -1,5 +1,8 @@
 _repo: History-of-anthropology_72158
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72158-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Haddon, Alfred C. (Alfred Cort)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37828
     wikipedia: https://en.wikipedia.org/wiki/Alison_Hingston_Quiggin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72158#History-of-anthropology
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72158'
